@@ -1,0 +1,40 @@
+.sub{
+	/*margin-top: 10px;*/
+}
+#show{
+	display: none;
+}
+.headerx {
+    padding: 15px;
+    background: #3456ff;
+    color: #ffffff;
+    width: 50%;
+}
+.balance{
+	padding: 15px;
+	background: #3456ff;
+	color: #ffffff;
+	margin-top: 10px;
+	border-top: 2px solid #ffffff;
+}
+
+.statement {
+    padding: 15px;
+    background: #3456ff;
+    color: #ffffff;
+     margin-left: -15px; 
+}
+.statement a:hover{
+	color: #000000;
+	font-weight: bold;
+}
+.statement a:visited{
+	color: #65ffdd;
+	font-weight: bold;
+}
+#income,#expenditure{
+	display: none;
+}
+#submit{
+	/*margin-top: 20%;*/
+}
